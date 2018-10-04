@@ -1,0 +1,20 @@
+{
+  "name": "paperrockscissors",
+  "version": "0.1.0",
+  "description": "Simple ROCK PAPER SCISSORS Game in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lee Charles Laing",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leelaing/rockpaperscissors.git"
+  },
+  "bugs": {
+    "url": "https://github.com/leelaing/rockpaperscissors/issues"
+  },
+  "homepage": "https://github.com/leelaing/rockpaperscissors#readme"
+}
